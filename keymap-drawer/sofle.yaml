@@ -43,8 +43,8 @@ layers:
   - C
   - D
   - V
-  - BT 1
-  - RGB COLOR HSB(281,64,45)
+  - '1'
+  - '2'
   - K
   - H
   - ','
